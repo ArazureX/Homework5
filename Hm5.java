@@ -28,7 +28,7 @@ public class Hm5 extends JFrame {
         panel.add((label2));
         panel.add(label3);
         add(panel);
-
+        System.out.println("test");
     }
 
     public static void main(String[] args) throws MalformedURLException {
